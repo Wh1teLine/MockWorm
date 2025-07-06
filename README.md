@@ -21,4 +21,4 @@ It recursively duplicates files and folders to demonstrate basic worm-like behav
    ```bash
    git clone https://github.com/yourusername/MockWorm.git
    cd MockWorm
-   python mockworm.py
+   python MockWorm.py
