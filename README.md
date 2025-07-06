@@ -3,7 +3,9 @@
 MockWorm is a **safe, educational worm simulation** written in Python.  
 It recursively duplicates files and folders to demonstrate basic worm-like behavior in an isolated environment.
 
-> ⚠️ This project is **strictly for educational use only**. Do not run outside of sandboxed or virtual environments.
+> ⚠️ This project is **strictly for educational use only**. It’s recommended to run this in a virtual environment like VirtualBox or VMware for safety.
+
+
 
 ---
 
