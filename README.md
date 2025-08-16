@@ -19,7 +19,6 @@ It recursively duplicates files and folders to demonstrate basic worm-like behav
 
 ## 🚀 Getting Started
 
-1. Clone this repo:
    ```bash
    git clone https://github.com/Wh1teLine/MockWorm.git
    cd MockWorm
