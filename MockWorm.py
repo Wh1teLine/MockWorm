@@ -23,6 +23,4 @@ def duplicate_files_recursive(folder):
     except Exception as e:
         print(f"Error di folder {folder}: {e}")
 
-if __name__ == "__main__":
-    target_folder = os.getcwd()
-    duplicate_files_recursive(target_folder)
+duplicate_files_recursive(os.getcwd())
